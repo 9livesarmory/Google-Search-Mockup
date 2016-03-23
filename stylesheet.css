@@ -1,0 +1,204 @@
+* {
+margin: 0;
+padding: 0;
+}
+
+html {
+	height:100vh;
+	font-family: arial,sans-serif;
+}
+
+ul {
+	list-style: none  
+}
+
+
+ul li a {
+    text-decoration: none;
+    color:#757575;
+}
+
+
+ul li a:visited {
+    text-decoration: none;
+    color:#757575;
+}
+
+ul li a:hover {
+    text-decoration: underline;
+    color:#000;
+}
+
+
+
+.Google {
+	width: 100%;
+	padding-top:150px;
+	clear:both;
+}
+
+
+img.googlelogo{
+	margin:auto;
+	display:block;
+}
+
+.topnav li {
+	display:inline;
+	font-size:14px;
+	padding-right:7px;
+	color: #000;
+	margin-right:5px;
+}
+
+.topnav {
+	width:100%;
+	height:50px;
+}
+
+.masthead {
+	float:right;
+	margin-top:20px;
+}
+
+.searchbar {
+	height:200px;
+}
+
+.searchbox {
+	margin-top:25px;
+	margin-bottom:50px;
+	margin:auto;
+	width:45%;
+	padding-top:25px;
+}
+
+.searchform {
+	height:35px;
+	width:515px;
+}
+
+.search-voice {
+	height:35px;
+	display:inline-block;
+}
+
+.fa-microphone {
+	border:1px solid #e4e4e4;
+	padding:10px 10px;
+}
+
+
+.search-options {
+	width:30%;
+	height:50px;
+	margin:auto;
+	padding-top:100px;
+}
+
+.footleft {
+	margin-left: 5px;
+	float:left;
+}
+
+.footright {
+	float:right;
+	margin-right:5px;
+
+}
+
+
+.footleft a:visited {
+text-decoration: none;
+color: #000;
+}
+
+
+footer {
+	line-height:40px;
+	width: 100%;
+	background-color:#f2f2f2;
+	position: absolute;
+	bottom:0;
+	border-top:1px solid #e4e4e4;
+	border-bottom:1px solid #e4e4e4;
+}
+
+.footleft a {
+	padding-left:27px;
+}
+
+.footleft a:link {
+	text-decoration: none;
+	color:#666;
+}
+
+.footleft a:hover {
+	text-decoration: underline;
+	color:#666;
+}
+
+.footleft a:visited {
+	color:#666;
+}
+
+
+.footright a {
+	padding-right:27px;
+}
+
+.footright a:link {
+	text-decoration: none;
+	color:#666;
+}
+
+.footright a:hover {
+	text-decoration: underline;
+}
+
+.footright a:visited{
+	color:#666;
+}
+
+.google-search a {
+	color:#757575;
+	background-color:#f2f2f2;
+	border:1px solid #f2f2f2;
+	border-radius: 2px;
+	padding:16px 16px;
+}
+
+
+.google-search a:link {
+	text-decoration: none;
+}
+
+
+.lucky a {
+	color:#757575;
+	background-color:#f2f2f2;
+	border:1px solid #f2f2f2;
+	border-radius: 2px;
+	padding:16px 16px;
+
+}
+
+.lucky a:link {
+	text-decoration: none;
+
+}
+
+
+.lucky {
+	display: inline-block;
+	margin:auto;
+	
+
+}
+
+
+.google-search {
+	display:inline-block;
+	margin:auto;
+
+}
